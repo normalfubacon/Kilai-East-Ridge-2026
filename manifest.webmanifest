@@ -1,0 +1,18 @@
+{
+  "name": "2026 奇萊東稜隊伍計畫",
+  "short_name": "奇萊東稜",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f4ec",
+  "theme_color": "#1f5a43",
+  "description": "2026 奇萊東稜隊伍計畫、行程、水源、裝備與緊急資訊",
+  "icons": [
+    {
+      "src": "Photos/hero-qilai-east-ridge.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
